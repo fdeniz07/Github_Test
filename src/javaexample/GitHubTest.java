@@ -5,5 +5,6 @@ public class GitHubTest {
         System.out.println("Github Project");
 
         System.out.println("This is a second commit");
+        System.out.println("This is a third commit");
     }
 }
